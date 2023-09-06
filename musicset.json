@@ -5,7 +5,7 @@
         [
         {
             "id" : "title",
-            "shuffle" : false,
+            "shuffle" : true,
             "files" : [
                 {
                     "file": "music/CO.AG_Cataclysm.ogg",
